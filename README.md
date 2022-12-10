@@ -1,2 +1,2 @@
 # testings
-testing repo
+testing repo TeluguSkillhub
